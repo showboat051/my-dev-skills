@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+input[type=text] {
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+  }
+
+/* ul {
+    list-style-image: url(star.svg);
+  }
+ */
+  button{
+    border-style: solid;
+    border-width: thick;
+    border-color: green;
+    
+  }
+
+  banner{
+    width: 30px;
+    height: 5px;
+    color:greenyellow;
+  }
